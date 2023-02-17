@@ -2,7 +2,7 @@ flask
 flask_cors
 gunicorn
 streamlit==0.47.4
-sklearn
+scikit-learn
 numpy
 altair
 matplotlib
